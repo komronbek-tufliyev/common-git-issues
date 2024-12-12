@@ -1,4 +1,4 @@
-# common-git-issues
+# common-git-issues Repo
 
 This repository provides a collection of solutions to common Git issues faced by developers. Whether you're new to Git or an experienced user, you'll find solutions to some of the most frequent problems, along with helpful tips for troubleshooting Git-related errors.
 
